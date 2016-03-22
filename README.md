@@ -1,0 +1,3 @@
+# w02-d01-classes
+
+I created three files: cars, nfl_teams, and parking_garages. I named the classes appropriately. In the Cars class, I defined three constructors: make, model, and year. I then created getters and setters for each of them, as well as a few parameters. For NflTeams I defined three constructors: name, city, and year_established. I gave them each getters and setters, along with a few parameters. My third class is ParkingGarages. I defined three constructors for this one as well. They are: location, price, and available_space. Each has a getter an setter attached, along with a few parameters.
